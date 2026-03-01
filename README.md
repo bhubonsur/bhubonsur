@@ -1,8 +1,8 @@
-
+_
 # Bhubon-Sur
 
 <h1 align="center">Hi 👋, I'm Bhubon Sur</h1>
-<h3 align="center">🚀 MERN Stack Developer</h3>
+<h3 align="center">🚀AI  Developer</h3>
 
 <p align="center">
  <p align="center">
@@ -91,3 +91,4 @@
 
 ⭐️ If you like the projects, don’t forget to give them a star!  
 🤝 Open to collaborations and learning opportunities.
+_
