@@ -23,9 +23,9 @@
 
 🎯 I’m a MERN Stack developer passionate about building modern, clean and user-friendly web applications.  
 📍 **Location:** Jashore, Khulna, Bangladesh  
-📧 **Email:** mdzahirraihanbakul@gmail.com  
+📧 **Email:** bhovon480@gmail.com  
 
-📞 **Phone**: 01615734276
+📞 **Phone**: 01601246804
 
 ---
 
